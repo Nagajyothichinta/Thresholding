@@ -92,12 +92,12 @@ for i in range(0,9):
 
 ### Adaptive Thresholding
 
-![output](./h7.png)
-
 ![output](./h8.png)
 
-### Optimum Global Thesholding using Otsu's Method
 ![output](./h9.png)
+
+### Optimum Global Thesholding using Otsu's Method
+![output](./h7.png)
 
 ## Result
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
